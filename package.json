@@ -1,0 +1,12 @@
+{
+  "name": "rectangle",
+  "version": "1.0.0",
+  "description": "Calculate Area and Perimeter of Rectangle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "Risasi",
+  "license": "ISC"
+}
